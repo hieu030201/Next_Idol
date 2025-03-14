@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Yun/Scripts/GamePlay/IdleGame/Weapons/BulletTakeDame.cs.meta
+guid: e408f1a76d76aef4189faa4b3ed8e75c
+========
+guid: a5e967295b99a164fbf18c24bd907352
+>>>>>>>> origin/Dev/dungnt:Assets/Yun/Scripts/GamePlay/IdleGame/Configs/AdsConfig.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

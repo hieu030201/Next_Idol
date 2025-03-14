@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Yun/Scripts/GamePlay/Vehicles/BattleService/Armored.cs.meta
+guid: a1404cfe0b4cd5746b3ec9e29998a8f8
+========
+guid: 758e3f48fc3e3c544b93f54f46aba9c7
+>>>>>>>> origin/Dev/dungnt:Assets/Yun/Scripts/GamePlay/IdleGame/Rooms/BuyWorkerPoint.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

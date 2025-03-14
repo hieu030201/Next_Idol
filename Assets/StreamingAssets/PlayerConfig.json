@@ -1,0 +1,49 @@
+{
+    "Speed": 3.200000047683716,
+    "StartingMoney": 60,
+    "StartingCapacity": 1,
+    "ShowVipSoldierDelay": 180,
+    "ShowSpeedBoosterDelay": 120,
+    "UpgradeWorkerTime": 300,
+    "SpeedBoosterTime": 120,
+    "GemCostForSkipAds": 3,
+    "UpgradeSpeedsList": [
+        {
+            "SpeedNumber": 3.799999952316284,
+            "LevelActive": 3,
+            "Price": 150
+        },
+        {
+            "SpeedNumber": 4.599999904632568,
+            "LevelActive": 7,
+            "Price": 850
+        },
+        {
+            "SpeedNumber": 5.5,
+            "LevelActive": 11,
+            "Price": 1250
+        }
+    ],
+    "UpgradCapacitysList": [
+        {
+            "CapacityNumber": 2,
+            "LevelActive": 2,
+            "Price": 100
+        },
+        {
+            "CapacityNumber": 3,
+            "LevelActive": 4,
+            "Price": 350
+        },
+        {
+            "CapacityNumber": 4,
+            "LevelActive": 6,
+            "Price": 750
+        },
+        {
+            "CapacityNumber": 5,
+            "LevelActive": 9,
+            "Price": 1250
+        }
+    ]
+}

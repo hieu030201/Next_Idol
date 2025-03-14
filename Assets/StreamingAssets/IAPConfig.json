@@ -1,0 +1,28 @@
+{
+    "ProductsList": [
+        {
+            "productNames": 0,
+            "strProductNames": "NoAds",
+            "value": 0,
+            "valueString": ""
+        },
+        {
+            "productNames": 1,
+            "strProductNames": "Money099",
+            "value": 1000,
+            "valueString": "1k"
+        },
+        {
+            "productNames": 2,
+            "strProductNames": "Money199",
+            "value": 2000,
+            "valueString": "2k"
+        },
+        {
+            "productNames": 3,
+            "strProductNames": "Money299",
+            "value": 3000,
+            "valueString": "3k"
+        }
+    ]
+}

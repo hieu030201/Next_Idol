@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696268390484",
+    "project_id": "my-guardian-base",
+    "storage_bucket": "my-guardian-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696268390484:android:6102fe02b734542573adc1",
+        "android_client_info": {
+          "package_name": "com.VitaStudio.MyGuardianBase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyShD_9uC81H9sag4kxDAU2NXRs4Iljx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

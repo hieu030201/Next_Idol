@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Yun/Scripts/GamePlay/IdleGame/Weapons/BulletMissile.cs.meta
+guid: 1b839972fcedf6a4c975011ce3f65008
+========
+guid: f0e3e80d3d5570e46b0da6e1f21db523
+>>>>>>>> origin/Dev/dungnt:Assets/Yun/Scripts/Animations/ExploseAnimation.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

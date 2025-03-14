@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Yun/Prefabs/Prefab_UI/Prefab_UI_Idle_Game/Prefab_UI_Popups/Alert_Popup.prefab.meta
+guid: 74e02e6d340090c49ba5d43c7e1e3610
+========
+guid: adeaa7b684a765d4ea61932d7b1498a3
+>>>>>>>> origin/Dev/newHieuDev:Assets/Yun/Scripts/UI/GamePlay/IdleGame/ItemSkin/SkinItem.prefab.meta
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

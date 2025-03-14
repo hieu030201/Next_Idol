@@ -1,0 +1,1199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff1c8c2a54db6054ebd62b67b6d1e643, type: 3}
+  m_Name: TestGameConfig
+  m_EditorClassIdentifier: 
+  isForVideoRecording: 0
+  isShowLog: 0
+  isShowFPS: 0
+  isShowLogPrivate: 0
+  IsTestGame: 0
+  IsShowTestInSettingPopup: 0
+  isTestAds: 0
+  IsFastPlay: 0
+  IsSkipIntro: 0
+  isFastBattle: 0
+  isSkipGuide: 0
+  isSoundOn: 1
+  isMusicOn: 1
+  isTestAdsVip: 0
+  isTestWeakDevice: 0
+  AreasList:
+  - Id: 0
+    RoomsList:
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 2
+      AreaNumber: 0
+      Name: Bed_Room_1
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 1
+      AreaNumber: 0
+      Name: Bed_Room_2
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 1
+      AreaNumber: 0
+      Name: Bed_Room_3
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 1
+      AreaNumber: 0
+      Name: Boxing_Room_1
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 1
+      Level: 0
+      AreaNumber: 0
+      Name: Battle_Room_1
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 0
+      Name: Check_In_Room
+      Id: 0
+      Cash: 200
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+  - Id: 1
+    RoomsList:
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 1
+      Name: Bed_Room_4
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 1
+      - Id: 0
+        Level: 0
+        Type: 1
+      - Id: 0
+        Level: 0
+        Type: 1
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 1
+      Name: Bed_Room_5
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 1
+      - Id: 0
+        Level: 0
+        Type: 1
+      - Id: 0
+        Level: 0
+        Type: 1
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 1
+      Name: Bed_Room_6
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 1
+      Name: Pave_The_Way_Room_1
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 1
+      AreaNumber: 1
+      Name: Transform_Room_2
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 1
+      AreaNumber: 1
+      Name: Training_Room
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 1
+      Level: 0
+      AreaNumber: 0
+      Name: Battle_Room_2
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+  - Id: 2
+    RoomsList:
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 2
+      Name: Bed_Room_7
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 2
+      Name: Bed_Room_8
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 2
+      Name: Bed_Room_9
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 2
+      Name: Bed_Room_10
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 2
+      Name: Pave_The_Way_Room_2
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 1
+      Level: 0
+      AreaNumber: 0
+      Name: Battle_Room_3
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+  - Id: 3
+    RoomsList:
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 3
+      Name: Bed_Room_11
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 3
+      Name: Bed_Room_12
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 3
+      Name: Bed_Room_13
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 3
+      Name: Bed_Room_14
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 3
+      Name: Pave_The_Way_Room_3
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 1
+      Level: 0
+      AreaNumber: 0
+      Name: Battle_Room_4
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+  - Id: 4
+    RoomsList:
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 4
+      Name: Bed_Room_15
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 4
+      Name: Bed_Room_16
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 4
+      Name: Bed_Room_17
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 4
+      Name: Pave_The_Way_Room_4
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 4
+      Name: Dining_Room
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 1
+      Level: 0
+      AreaNumber: 0
+      Name: Battle_Room_5
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+  - Id: 5
+    RoomsList:
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 5
+      Name: Bed_Room_18
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 5
+      Name: Bed_Room_19
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 5
+      Name: Bed_Room_20
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 5
+      Name: Pave_The_Way_Room_5
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 1
+      Level: 0
+      AreaNumber: 0
+      Name: Battle_Room_6
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+  - Id: 6
+    RoomsList:
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 6
+      Name: Bed_Room_21
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 6
+      Name: Bed_Room_22
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 6
+      Name: Bed_Room_23
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 6
+      Name: Bed_Room_24
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 6
+      Name: Pave_The_Way_Room_6
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 1
+      Level: 0
+      AreaNumber: 0
+      Name: Battle_Room_7
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+  - Id: 7
+    RoomsList:
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 7
+      Name: Bed_Room_25
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 7
+      Name: Bed_Room_26
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 7
+      Name: Bed_Room_27
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 7
+      Name: Bed_Room_28
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 7
+      Name: Pave_The_Way_Room_7
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 1
+      Level: 0
+      AreaNumber: 0
+      Name: Battle_Room_8
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+  - Id: 8
+    RoomsList:
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 8
+      Name: Bed_Room_29
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 8
+      Name: Bed_Room_30
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 8
+      Name: Bed_Room_31
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 8
+      Name: Bed_Room_32
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 8
+      Name: Bed_Room_33
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 8
+      Name: Pave_The_Way_Room_8
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 0
+      Name: Battle_Room_9
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+  - Id: 9
+    RoomsList:
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 9
+      Name: Bed_Room_34
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 9
+      Name: Bed_Room_35
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 9
+      Name: Bed_Room_36
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 9
+      Name: Bed_Room_37
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 9
+      Name: Bed_Room_38
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList:
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      - Id: 0
+        Level: 0
+        Type: 0
+      ReinforcesList: []
+      WaitingClientsList: []
+    - IsDamaged: 0
+      IsBuilt: 1
+      IsUnLocked: 0
+      Level: 0
+      AreaNumber: 0
+      Name: Pave_The_Way_Room_9
+      Id: 0
+      Cash: 0
+      Hp: 0
+      Type: 0
+      ClientsList: []
+      ReinforcesList: []
+      WaitingClientsList: []
+  Speed: 8
+  Capacity: 3
+  Level: 10
+  LevelProgress: 1
+  Money: 1000

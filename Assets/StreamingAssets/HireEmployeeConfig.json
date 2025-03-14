@@ -1,0 +1,69 @@
+{
+    "hireEmployeeConfigs": [
+        {
+            "name": "Hire_Check_In_Employee_Point",
+            "levelActive": 2,
+            "price": 60
+        },
+        {
+            "name": "Hire_Bedroom_Employee_Point_Area_1",
+            "levelActive": 3,
+            "price": 70
+        },
+        {
+            "name": "Hire_Boxing_Worker_Point_Area_1",
+            "levelActive": 4,
+            "price": 150
+        },
+        {
+            "name": "Hire_Bedroom_Employee_Point_Area_2",
+            "levelActive": 99,
+            "price": 375
+        },
+        {
+            "name": "Hire_DiningRoom_Employee_Point_Area_2",
+            "levelActive": 99,
+            "price": 295
+        },
+        {
+            "name": "Hire_TrainingRoom_Employee_Point_Area_2",
+            "levelActive": 99,
+            "price": 225
+        },
+        {
+            "name": "Hire_Bedroom_Employee_Point_Area_3",
+            "levelActive": 99,
+            "price": 565
+        },
+        {
+            "name": "Hire_Boxing_Worker_Point_Area_3",
+            "levelActive": 99,
+            "price": 795
+        },
+        {
+            "name": "Hire_TrainingRoom_Employee_Point_Area_3",
+            "levelActive": 99,
+            "price": 1065
+        },
+        {
+            "name": "Hire_Bedroom_Employee_Point_Area_4",
+            "levelActive": 99,
+            "price": 1725
+        },
+        {
+            "name": "Hire_Boxing_Worker_Point_Area_4",
+            "levelActive": 99,
+            "price": 2545
+        },
+        {
+            "name": "Hire_Bedroom_Employee_Point_Area_5",
+            "levelActive": 99,
+            "price": 3265
+        },
+        {
+            "name": "Hire_DiningRoom_Employee_Point_Area_5",
+            "levelActive": 99,
+            "price": 12265
+        }
+    ]
+}

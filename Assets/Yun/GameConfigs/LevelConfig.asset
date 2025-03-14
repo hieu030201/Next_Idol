@@ -1,0 +1,461 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bec76c8f9df3f94db22460b165456ab, type: 3}
+  m_Name: LevelConfig
+  m_EditorClassIdentifier: 
+  LevelRequirements:
+  - id: 1
+    totalProgress: 4
+    reward: 150
+    AdsReward: 50
+    unlocks:
+    - {fileID: 6236661856990630931, guid: 8e1ccbda01b0bf64ea7a4689f8fbd50f, type: 3}
+  - id: 2
+    totalProgress: 6
+    reward: 200
+    AdsReward: 100
+    unlocks:
+    - {fileID: 6236661856990630931, guid: 59c3f7ccc38ae0c488cf6381bb8cb120, type: 3}
+  - id: 3
+    totalProgress: 8
+    reward: 300
+    AdsReward: 250
+    unlocks:
+    - {fileID: 5253666678684885208, guid: f00193d4bcc60d448ac4ec1ad07160d9, type: 3}
+    - {fileID: 6236661856990630931, guid: 2eeb0132a81d25842818c5845e3e7950, type: 3}
+  - id: 4
+    totalProgress: 10
+    reward: 450
+    AdsReward: 500
+    unlocks:
+    - {fileID: 1917961602241161866, guid: 9754ff0d400ec0842953e8fd5e9f077e, type: 3}
+  - id: 5
+    totalProgress: 10
+    reward: 750
+    AdsReward: 1000
+    unlocks:
+    - {fileID: 6236661856990630931, guid: eb53689043784594787bee1df00e6713, type: 3}
+    - {fileID: 5253666678684885208, guid: f00193d4bcc60d448ac4ec1ad07160d9, type: 3}
+  - id: 6
+    totalProgress: 10
+    reward: 1000
+    AdsReward: 1500
+    unlocks:
+    - {fileID: 6236661856990630931, guid: 4f45d0184d7be434aa062ca45347e5fa, type: 3}
+    - {fileID: 1917961602241161866, guid: 9754ff0d400ec0842953e8fd5e9f077e, type: 3}
+  - id: 7
+    totalProgress: 10
+    reward: 1500
+    AdsReward: 2000
+    unlocks:
+    - {fileID: 1917961602241161866, guid: 9754ff0d400ec0842953e8fd5e9f077e, type: 3}
+    - {fileID: 7347683357282208006, guid: ce7c9e3d0b930b04fb376b6505bbc594, type: 3}
+  - id: 8
+    totalProgress: 10
+    reward: 2000
+    AdsReward: 3000
+    unlocks:
+    - {fileID: 2517030474503318121, guid: 9e8791b71ae42e94c9a60636ec971381, type: 3}
+    - {fileID: 6236661856990630931, guid: e2bd4dc2d2e47f4499f9e8bcb02c88ed, type: 3}
+  - id: 9
+    totalProgress: 10
+    reward: 2500
+    AdsReward: 3000
+    unlocks:
+    - {fileID: 5253666678684885208, guid: f00193d4bcc60d448ac4ec1ad07160d9, type: 3}
+    - {fileID: 1917961602241161866, guid: 9754ff0d400ec0842953e8fd5e9f077e, type: 3}
+  - id: 10
+    totalProgress: 10
+    reward: 3000
+    AdsReward: 5000
+    unlocks:
+    - {fileID: 2517030474503318121, guid: 9e8791b71ae42e94c9a60636ec971381, type: 3}
+    - {fileID: 6236661856990630931, guid: a9018ab89f881e34db93803e3bb65f03, type: 3}
+  - id: 11
+    totalProgress: 10
+    reward: 3500
+    AdsReward: 5000
+    unlocks:
+    - {fileID: 1917961602241161866, guid: 9754ff0d400ec0842953e8fd5e9f077e, type: 3}
+  - id: 12
+    totalProgress: 10
+    reward: 4000
+    AdsReward: 5000
+    unlocks:
+    - {fileID: 7347683357282208006, guid: ce7c9e3d0b930b04fb376b6505bbc594, type: 3}
+  - id: 13
+    totalProgress: 10
+    reward: 4500
+    AdsReward: 5000
+    unlocks: []
+  - id: 14
+    totalProgress: 10
+    reward: 5000
+    AdsReward: 6000
+    unlocks: []
+  - id: 15
+    totalProgress: 10
+    reward: 5000
+    AdsReward: 6000
+    unlocks: []
+  - id: 16
+    totalProgress: 40
+    reward: 5000
+    AdsReward: 6000
+    unlocks: []
+  - id: 17
+    totalProgress: 40
+    reward: 5000
+    AdsReward: 6000
+    unlocks: []
+  - id: 18
+    totalProgress: 40
+    reward: 5000
+    AdsReward: 6000
+    unlocks: []
+  - id: 19
+    totalProgress: 40
+    reward: 5000
+    AdsReward: 6000
+    unlocks: []
+  - id: 20
+    totalProgress: 40
+    reward: 5000
+    AdsReward: 6000
+    unlocks: []
+  - id: 21
+    totalProgress: 40
+    reward: 5000
+    AdsReward: 6000
+    unlocks: []
+  - id: 22
+    totalProgress: 40
+    reward: 5000
+    AdsReward: 6000
+    unlocks: []
+  - id: 23
+    totalProgress: 40
+    reward: 5000
+    AdsReward: 6000
+    unlocks: []
+  - id: 24
+    totalProgress: 40
+    reward: 5000
+    AdsReward: 6000
+    unlocks: []
+  - id: 25
+    totalProgress: 40
+    reward: 5000
+    AdsReward: 6000
+    unlocks: []
+  - id: 26
+    totalProgress: 40
+    reward: 5000
+    AdsReward: 6000
+    unlocks: []
+  - id: 27
+    totalProgress: 40
+    reward: 5000
+    AdsReward: 6000
+    unlocks: []
+  - id: 28
+    totalProgress: 40
+    reward: 5000
+    AdsReward: 6000
+    unlocks: []
+  - id: 29
+    totalProgress: 40
+    reward: 5000
+    AdsReward: 6000
+    unlocks: []
+  - id: 30
+    totalProgress: 40
+    reward: 5000
+    AdsReward: 6000
+    unlocks: []
+  - id: 31
+    totalProgress: 40
+    reward: 2000
+    AdsReward: 20000
+    unlocks: []
+  - id: 32
+    totalProgress: 40
+    reward: 2000
+    AdsReward: 20000
+    unlocks: []
+  - id: 33
+    totalProgress: 40
+    reward: 2000
+    AdsReward: 20000
+    unlocks: []
+  - id: 34
+    totalProgress: 40
+    reward: 2000
+    AdsReward: 20000
+    unlocks: []
+  - id: 35
+    totalProgress: 40
+    reward: 2000
+    AdsReward: 20000
+    unlocks: []
+  - id: 36
+    totalProgress: 40
+    reward: 2000
+    AdsReward: 20000
+    unlocks: []
+  - id: 37
+    totalProgress: 40
+    reward: 2000
+    AdsReward: 20000
+    unlocks: []
+  - id: 38
+    totalProgress: 40
+    reward: 2000
+    AdsReward: 20000
+    unlocks: []
+  - id: 39
+    totalProgress: 40
+    reward: 2000
+    AdsReward: 20000
+    unlocks: []
+  - id: 40
+    totalProgress: 40
+    reward: 2000
+    AdsReward: 20000
+    unlocks: []
+  - id: 41
+    totalProgress: 40
+    reward: 2000
+    AdsReward: 20000
+    unlocks: []
+  - id: 42
+    totalProgress: 40
+    reward: 2000
+    AdsReward: 20000
+    unlocks: []
+  - id: 43
+    totalProgress: 40
+    reward: 2000
+    AdsReward: 20000
+    unlocks: []
+  - id: 44
+    totalProgress: 40
+    reward: 2000
+    AdsReward: 20000
+    unlocks: []
+  - id: 45
+    totalProgress: 40
+    reward: 2000
+    AdsReward: 20000
+    unlocks: []
+  - id: 46
+    totalProgress: 40
+    reward: 2000
+    AdsReward: 20000
+    unlocks: []
+  - id: 47
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 48
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 49
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 50
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 51
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 52
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 53
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 54
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 55
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 56
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 57
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 58
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 59
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 60
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 61
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 62
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 63
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 64
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 65
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 66
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 67
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 68
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 69
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 70
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 71
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 72
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 73
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 74
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 75
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 76
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 77
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 78
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 79
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 80
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks: []
+  - id: 81
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks:
+    - {fileID: 5755341712993079177, guid: 9b5cd5b748f6f8e47b756d6310f1e7e0, type: 3}
+    - {fileID: 6236661856990630931, guid: d94b43586d3d39940b3308fe5257c75e, type: 3}
+  - id: 82
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks:
+    - {fileID: 1444623964384126062, guid: da53affa0f882ea43abe47fb67d367ec, type: 3}
+    - {fileID: 5253666678684885208, guid: f00193d4bcc60d448ac4ec1ad07160d9, type: 3}
+  - id: 83
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks:
+    - {fileID: 6236661856990630931, guid: d94b43586d3d39940b3308fe5257c75e, type: 3}
+    - {fileID: 1917961602241161866, guid: 9754ff0d400ec0842953e8fd5e9f077e, type: 3}
+  - id: 84
+    totalProgress: 5
+    reward: 50
+    AdsReward: 30
+    unlocks:
+    - {fileID: 6236661856990630931, guid: d94b43586d3d39940b3308fe5257c75e, type: 3}

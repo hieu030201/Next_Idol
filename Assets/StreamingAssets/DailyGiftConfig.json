@@ -1,0 +1,154 @@
+{
+    "giftList": [
+        {
+            "reward": 100,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 500,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 5,
+            "rewardType": 3,
+            "strRewardType": "Star"
+        },
+        {
+            "reward": 2000,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 5,
+            "rewardType": 3,
+            "strRewardType": "Star"
+        },
+        {
+            "reward": 5000,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 5,
+            "rewardType": 3,
+            "strRewardType": "Star"
+        },
+        {
+            "reward": 5000,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 5,
+            "rewardType": 3,
+            "strRewardType": "Star"
+        },
+        {
+            "reward": 5000,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 5,
+            "rewardType": 3,
+            "strRewardType": "Star"
+        },
+        {
+            "reward": 5000,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 5,
+            "rewardType": 3,
+            "strRewardType": "Star"
+        },
+        {
+            "reward": 5000,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 5,
+            "rewardType": 3,
+            "strRewardType": "Star"
+        },
+        {
+            "reward": 1600,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 1700,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 1800,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 1900,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 2000,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 2100,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 2200,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 2300,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 2400,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 2500,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 2600,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 2700,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 2800,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 2900,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        },
+        {
+            "reward": 3000,
+            "rewardType": 0,
+            "strRewardType": "Money"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Yun/Scripts/GamePlay/Vehicles/BattleService/Missile.cs.meta
+guid: c62a446e268a05e4aa7a5f3d49918425
+========
+guid: cd93f2c95697d8d4690e6f5a08c868eb
+>>>>>>>> origin/Dev/dungnt:Assets/Yun/Scripts/GamePlay/IdleGame/Rooms/Others/BattleFlag.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

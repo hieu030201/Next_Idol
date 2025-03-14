@@ -1,0 +1,304 @@
+{
+    "battleList": [
+        {
+            "enemyLv1": 5,
+            "enemyLv2": 0,
+            "enemyLv3": 0,
+            "minSoldierToStart": 3,
+            "battleRoomName": "Battle_Room_1",
+            "tank1Price": 3,
+            "tank2Price": 0,
+            "missilePrice": 0,
+            "missile2Price": 0,
+            "armoredPrice": 0,
+            "armored2Price": 0,
+            "reward": 5,
+            "tank1Prices": [
+                100,
+                200
+            ],
+            "tank2Prices": [
+                100,
+                200
+            ],
+            "armored1Prices": [
+                100,
+                200
+            ],
+            "armored2Prices": [
+                100,
+                200
+            ],
+            "missile1Prices": [
+                100,
+                200
+            ],
+            "missile2Prices": [
+                100,
+                200
+            ],
+            "milestonesList": [
+                {
+                    "progress": 30,
+                    "reward": 20,
+                    "rewardType": 0
+                },
+                {
+                    "progress": 70,
+                    "reward": 50,
+                    "rewardType": 0
+                }
+            ]
+        },
+        {
+            "enemyLv1": 30,
+            "enemyLv2": 20,
+            "enemyLv3": 10,
+            "minSoldierToStart": 5,
+            "battleRoomName": "Battle_Room_2",
+            "tank1Price": 30,
+            "tank2Price": 0,
+            "missilePrice": 0,
+            "missile2Price": 0,
+            "armoredPrice": 40,
+            "armored2Price": 0,
+            "reward": 5,
+            "tank1Prices": [
+                350,
+                750
+            ],
+            "tank2Prices": [
+                100,
+                200
+            ],
+            "armored1Prices": [
+                450,
+                850
+            ],
+            "armored2Prices": [
+                100,
+                200
+            ],
+            "missile1Prices": [
+                100,
+                200
+            ],
+            "missile2Prices": [
+                100,
+                200
+            ],
+            "milestonesList": [
+                {
+                    "progress": 30,
+                    "reward": 20,
+                    "rewardType": 0
+                },
+                {
+                    "progress": 70,
+                    "reward": 50,
+                    "rewardType": 0
+                }
+            ]
+        },
+        {
+            "enemyLv1": 30,
+            "enemyLv2": 30,
+            "enemyLv3": 30,
+            "minSoldierToStart": 5,
+            "battleRoomName": "Battle_Room_3",
+            "tank1Price": 20,
+            "tank2Price": 0,
+            "missilePrice": 60,
+            "missile2Price": 0,
+            "armoredPrice": 40,
+            "armored2Price": 0,
+            "reward": 7,
+            "tank1Prices": [
+                1000,
+                2000
+            ],
+            "tank2Prices": [
+                100,
+                200
+            ],
+            "armored1Prices": [
+                2000,
+                4000
+            ],
+            "armored2Prices": [
+                100
+            ],
+            "missile1Prices": [
+                1000,
+                2000
+            ],
+            "missile2Prices": [
+                200,
+                100,
+                200
+            ],
+            "milestonesList": [
+                {
+                    "progress": 30,
+                    "reward": 20,
+                    "rewardType": 0
+                },
+                {
+                    "progress": 70,
+                    "reward": 50,
+                    "rewardType": 0
+                }
+            ]
+        },
+        {
+            "enemyLv1": 50,
+            "enemyLv2": 40,
+            "enemyLv3": 30,
+            "minSoldierToStart": 5,
+            "battleRoomName": "Battle_Room_4",
+            "tank1Price": 30,
+            "tank2Price": 30,
+            "missilePrice": 60,
+            "missile2Price": 60,
+            "armoredPrice": 40,
+            "armored2Price": 40,
+            "reward": 5,
+            "tank1Prices": [
+                2000,
+                4000
+            ],
+            "tank2Prices": [
+                3000,
+                6000
+            ],
+            "armored1Prices": [
+                3000,
+                6000
+            ],
+            "armored2Prices": [
+                4000,
+                8000
+            ],
+            "missile1Prices": [
+                2000,
+                4000
+            ],
+            "missile2Prices": [
+                3000,
+                6000
+            ],
+            "milestonesList": [
+                {
+                    "progress": 30,
+                    "reward": 20,
+                    "rewardType": 0
+                },
+                {
+                    "progress": 70,
+                    "reward": 50,
+                    "rewardType": 0
+                }
+            ]
+        },
+        {
+            "enemyLv1": 60,
+            "enemyLv2": 50,
+            "enemyLv3": 40,
+            "minSoldierToStart": 5,
+            "battleRoomName": "Battle_Room_5",
+            "tank1Price": 20,
+            "tank2Price": 30,
+            "missilePrice": 20,
+            "missile2Price": 30,
+            "armoredPrice": 20,
+            "armored2Price": 30,
+            "reward": 5,
+            "tank1Prices": [
+                3000,
+                6000
+            ],
+            "tank2Prices": [
+                4000,
+                8000
+            ],
+            "armored1Prices": [
+                4000,
+                8000
+            ],
+            "armored2Prices": [
+                5000,
+                10000
+            ],
+            "missile1Prices": [
+                3000,
+                6000
+            ],
+            "missile2Prices": [
+                4000,
+                8000
+            ],
+            "milestonesList": [
+                {
+                    "progress": 30,
+                    "reward": 20,
+                    "rewardType": 0
+                },
+                {
+                    "progress": 70,
+                    "reward": 50,
+                    "rewardType": 0
+                }
+            ]
+        },
+        {
+            "enemyLv1": 30,
+            "enemyLv2": 90,
+            "enemyLv3": 120,
+            "minSoldierToStart": 5,
+            "battleRoomName": "Battle_Room_6",
+            "tank1Price": 30,
+            "tank2Price": 30,
+            "missilePrice": 60,
+            "missile2Price": 60,
+            "armoredPrice": 40,
+            "armored2Price": 40,
+            "reward": 5,
+            "tank1Prices": [
+                3000,
+                6000
+            ],
+            "tank2Prices": [
+                4000,
+                8000
+            ],
+            "armored1Prices": [
+                4000,
+                8000
+            ],
+            "armored2Prices": [
+                5000,
+                10000
+            ],
+            "missile1Prices": [
+                4000,
+                8000
+            ],
+            "missile2Prices": [
+                5000,
+                10000
+            ],
+            "milestonesList": [
+                {
+                    "progress": 30,
+                    "reward": 20,
+                    "rewardType": 0
+                },
+                {
+                    "progress": 70,
+                    "reward": 50,
+                    "rewardType": 0
+                }
+            ]
+        }
+    ]
+}

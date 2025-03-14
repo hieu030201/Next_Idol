@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e0131d27975f2d47aa5ce3bf805327a, type: 3}
+  m_Name: WeaponDataCollection
+  m_EditorClassIdentifier: 
+  _list:
+  - id: 0
+    nameType: 0
+    damageNumber: 1
+    speedShooting: 1.5
+    dontMissingPercent: 70
+    bulletOfTurn: 0
+  - id: 1
+    nameType: 4
+    damageNumber: 1
+    speedShooting: 1.6
+    dontMissingPercent: 100
+    bulletOfTurn: 0
+  - id: 2
+    nameType: 2
+    damageNumber: 1
+    speedShooting: 0.6
+    dontMissingPercent: 40
+    bulletOfTurn: 0
+  - id: 3
+    nameType: 3
+    damageNumber: 1
+    speedShooting: 0.2
+    dontMissingPercent: 30
+    bulletOfTurn: 0
+  - id: 4
+    nameType: 1
+    damageNumber: 1
+    speedShooting: 1.5
+    dontMissingPercent: 70
+    bulletOfTurn: 0
+  - id: 5
+    nameType: 5
+    damageNumber: 1
+    speedShooting: 1
+    dontMissingPercent: 70
+    bulletOfTurn: 0
+  - id: 6
+    nameType: 6
+    damageNumber: 1
+    speedShooting: 1
+    dontMissingPercent: 70
+    bulletOfTurn: 0
+  - id: 7
+    nameType: 7
+    damageNumber: 1
+    speedShooting: 1
+    dontMissingPercent: 70
+    bulletOfTurn: 0
+  - id: 8
+    nameType: 8
+    damageNumber: 1
+    speedShooting: 1
+    dontMissingPercent: 70
+    bulletOfTurn: 0
+  - id: 9
+    nameType: 9
+    damageNumber: 1
+    speedShooting: 1
+    dontMissingPercent: 70
+    bulletOfTurn: 0

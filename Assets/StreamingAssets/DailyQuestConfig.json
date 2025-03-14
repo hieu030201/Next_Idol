@@ -1,0 +1,116 @@
+{
+    "questList": [
+        {
+            "startDescription": "Train",
+            "endDescription": "Rookies",
+            "quantity": 6,
+            "reward": 1,
+            "id": 0,
+            "idType": "TrainRookie",
+            "countProgress": 0,
+            "isReceived": false,
+            "rewardType": 3,
+            "strRewardType": "Star"
+        },
+        {
+            "startDescription": "Build",
+            "endDescription": "Trainning Room",
+            "quantity": 1,
+            "reward": 1,
+            "id": 1,
+            "idType": "BuildTrainingRoom",
+            "countProgress": 0,
+            "isReceived": false,
+            "rewardType": 3,
+            "strRewardType": "Star"
+        },
+        {
+            "startDescription": "Upgrade",
+            "endDescription": "Sleep Room",
+            "quantity": 1,
+            "reward": 1,
+            "id": 2,
+            "idType": "UpgradeSleepRoom",
+            "countProgress": 0,
+            "isReceived": false,
+            "rewardType": 3,
+            "strRewardType": "Star"
+        },
+        {
+            "startDescription": "Hire",
+            "endDescription": "Worker",
+            "quantity": 1,
+            "reward": 1,
+            "id": 3,
+            "idType": "HireWorker",
+            "countProgress": 0,
+            "isReceived": false,
+            "rewardType": 3,
+            "strRewardType": "Star"
+        },
+        {
+            "startDescription": "Upgrade Commander Speed",
+            "endDescription": "",
+            "quantity": 1,
+            "reward": 1,
+            "id": 4,
+            "idType": "UpgradeCommanderSpeed",
+            "countProgress": 0,
+            "isReceived": false,
+            "rewardType": 3,
+            "strRewardType": "Star"
+        },
+        {
+            "startDescription": "Upgrade Commander Loader",
+            "endDescription": "",
+            "quantity": 1,
+            "reward": 1,
+            "id": 5,
+            "idType": "UpgradeCommanderLoader",
+            "countProgress": 0,
+            "isReceived": false,
+            "rewardType": 3,
+            "strRewardType": "Star"
+        },
+        {
+            "startDescription": "Players Level Up",
+            "endDescription": "Times",
+            "quantity": 2,
+            "reward": 1,
+            "id": 6,
+            "idType": "PlayerLevelUp",
+            "countProgress": 0,
+            "isReceived": false,
+            "rewardType": 3,
+            "strRewardType": "Star"
+        },
+        {
+            "startDescription": "Use",
+            "endDescription": "Money Bag",
+            "quantity": 1,
+            "reward": 1,
+            "id": 7,
+            "idType": "UseMoneyBag",
+            "countProgress": 0,
+            "isReceived": false,
+            "rewardType": 3,
+            "strRewardType": "Star"
+        },
+        {
+            "startDescription": "Expand",
+            "endDescription": "Areas",
+            "quantity": 1,
+            "reward": 2,
+            "id": 8,
+            "idType": "ExpandAreas",
+            "countProgress": 0,
+            "isReceived": false,
+            "rewardType": 3,
+            "strRewardType": "Star"
+        }
+    ],
+    "reward": 5,
+    "isReceived": false,
+    "rewardType": 3,
+    "strRewardType": "Star"
+}

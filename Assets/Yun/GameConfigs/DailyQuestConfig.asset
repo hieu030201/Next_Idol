@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90127e714820dc54b97752feb702e991, type: 3}
+  m_Name: DailyQuestConfig
+  m_EditorClassIdentifier: 
+  questList:
+  - startDescription: Train
+    endDescription: Rookies
+    quantity: 6
+    reward: 1
+    id: 0
+    countProgress: 0
+    isReceived: 0
+    rewardType: 3
+  - startDescription: Build
+    endDescription: Trainning Room
+    quantity: 1
+    reward: 1
+    id: 1
+    countProgress: 0
+    isReceived: 0
+    rewardType: 3
+  - startDescription: Upgrade
+    endDescription: Sleep Room
+    quantity: 1
+    reward: 1
+    id: 2
+    countProgress: 0
+    isReceived: 0
+    rewardType: 3
+  - startDescription: Hire
+    endDescription: Worker
+    quantity: 1
+    reward: 1
+    id: 3
+    countProgress: 0
+    isReceived: 0
+    rewardType: 3
+  - startDescription: Upgrade Commander Speed
+    endDescription: 
+    quantity: 1
+    reward: 1
+    id: 4
+    countProgress: 0
+    isReceived: 0
+    rewardType: 3
+  - startDescription: Upgrade Commander Loader
+    endDescription: 
+    quantity: 1
+    reward: 1
+    id: 5
+    countProgress: 0
+    isReceived: 0
+    rewardType: 3
+  - startDescription: Players Level Up
+    endDescription: Times
+    quantity: 2
+    reward: 1
+    id: 6
+    countProgress: 0
+    isReceived: 0
+    rewardType: 3
+  - startDescription: Use
+    endDescription: Money Bag
+    quantity: 1
+    reward: 1
+    id: 7
+    countProgress: 0
+    isReceived: 0
+    rewardType: 3
+  - startDescription: Expand
+    endDescription: Areas
+    quantity: 1
+    reward: 2
+    id: 8
+    countProgress: 0
+    isReceived: 0
+    rewardType: 3
+  reward: 5
+  isReceived: 0
+  rewardType: 3

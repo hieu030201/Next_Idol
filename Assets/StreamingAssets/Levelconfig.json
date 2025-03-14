@@ -1,0 +1,812 @@
+{
+    "LevelRequirements": [
+        {
+            "id": 1,
+            "totalProgress": 4,
+            "reward": 150,
+            "AdsReward": 50,
+            "unlocks": [
+                {
+                    "instanceID": 45502
+                }
+            ],
+            "UnlockString": [
+                "Unlock_Upgrade_Capacity_Level_1"
+            ]
+        },
+        {
+            "id": 2,
+            "totalProgress": 6,
+            "reward": 175,
+            "AdsReward": 100,
+            "unlocks": [
+                {
+                    "instanceID": 45512
+                }
+            ],
+            "UnlockString": [
+                "Unlock_Upgrade_Speed_Level_1"
+            ]
+        },
+        {
+            "id": 3,
+            "totalProgress": 8,
+            "reward": 200,
+            "AdsReward": 250,
+            "unlocks": [
+                {
+                    "instanceID": 45490
+                },
+                {
+                    "instanceID": 45504
+                }
+            ],
+            "UnlockString": [
+                "Unlock_Reception",
+                "Unlock_Upgrade_Capacity_Level_2"
+            ]
+        },
+        {
+            "id": 4,
+            "totalProgress": 10,
+            "reward": 450,
+            "AdsReward": 500,
+            "unlocks": [
+                {
+                    "instanceID": 45480
+                }
+            ],
+            "UnlockString": [
+                "Unlock_Boxing_Worker"
+            ]
+        },
+        {
+            "id": 5,
+            "totalProgress": 10,
+            "reward": 750,
+            "AdsReward": 1000,
+            "unlocks": [
+                {
+                    "instanceID": 45506
+                },
+                {
+                    "instanceID": 45490
+                }
+            ],
+            "UnlockString": [
+                "Unlock_Upgrade_Capacity_Level_3",
+                "Unlock_Reception"
+            ]
+        },
+        {
+            "id": 6,
+            "totalProgress": 10,
+            "reward": 1000,
+            "AdsReward": 1500,
+            "unlocks": [
+                {
+                    "instanceID": 45514
+                },
+                {
+                    "instanceID": 45480
+                }
+            ],
+            "UnlockString": [
+                "Unlock_Upgrade_Speed_Level_2",
+                "Unlock_Boxing_Worker"
+            ]
+        },
+        {
+            "id": 7,
+            "totalProgress": 10,
+            "reward": 1500,
+            "AdsReward": 2000,
+            "unlocks": [
+                {
+                    "instanceID": 45480
+                },
+                {
+                    "instanceID": 45482
+                }
+            ],
+            "UnlockString": [
+                "Unlock_Boxing_Worker",
+                "Unlock_Chef"
+            ]
+        },
+        {
+            "id": 8,
+            "totalProgress": 10,
+            "reward": 2000,
+            "AdsReward": 3000,
+            "unlocks": [
+                {
+                    "instanceID": 45494
+                },
+                {
+                    "instanceID": 45508
+                }
+            ],
+            "UnlockString": [
+                "Unlock_Trainer",
+                "Unlock_Upgrade_Capacity_Level_4"
+            ]
+        },
+        {
+            "id": 9,
+            "totalProgress": 10,
+            "reward": 2500,
+            "AdsReward": 3000,
+            "unlocks": [
+                {
+                    "instanceID": 45490
+                },
+                {
+                    "instanceID": 45480
+                }
+            ],
+            "UnlockString": [
+                "Unlock_Reception",
+                "Unlock_Boxing_Worker"
+            ]
+        },
+        {
+            "id": 10,
+            "totalProgress": 10,
+            "reward": 3000,
+            "AdsReward": 5000,
+            "unlocks": [
+                {
+                    "instanceID": 45494
+                },
+                {
+                    "instanceID": 45516
+                }
+            ],
+            "UnlockString": [
+                "Unlock_Trainer",
+                "Unlock_Upgrade_Speed_Level_3"
+            ]
+        },
+        {
+            "id": 11,
+            "totalProgress": 10,
+            "reward": 3500,
+            "AdsReward": 5000,
+            "unlocks": [
+                {
+                    "instanceID": 45480
+                }
+            ],
+            "UnlockString": [
+                "Unlock_Boxing_Worker"
+            ]
+        },
+        {
+            "id": 12,
+            "totalProgress": 10,
+            "reward": 4000,
+            "AdsReward": 5000,
+            "unlocks": [
+                {
+                    "instanceID": 45482
+                }
+            ],
+            "UnlockString": [
+                "Unlock_Chef"
+            ]
+        },
+        {
+            "id": 13,
+            "totalProgress": 10,
+            "reward": 4500,
+            "AdsReward": 5000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 14,
+            "totalProgress": 10,
+            "reward": 5000,
+            "AdsReward": 6000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 15,
+            "totalProgress": 10,
+            "reward": 5000,
+            "AdsReward": 6000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 16,
+            "totalProgress": 40,
+            "reward": 5000,
+            "AdsReward": 6000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 17,
+            "totalProgress": 40,
+            "reward": 5000,
+            "AdsReward": 6000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 18,
+            "totalProgress": 40,
+            "reward": 5000,
+            "AdsReward": 6000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 19,
+            "totalProgress": 40,
+            "reward": 5000,
+            "AdsReward": 6000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 20,
+            "totalProgress": 40,
+            "reward": 5000,
+            "AdsReward": 6000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 21,
+            "totalProgress": 40,
+            "reward": 5000,
+            "AdsReward": 6000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 22,
+            "totalProgress": 40,
+            "reward": 5000,
+            "AdsReward": 6000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 23,
+            "totalProgress": 40,
+            "reward": 5000,
+            "AdsReward": 6000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 24,
+            "totalProgress": 40,
+            "reward": 5000,
+            "AdsReward": 6000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 25,
+            "totalProgress": 40,
+            "reward": 5000,
+            "AdsReward": 6000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 26,
+            "totalProgress": 40,
+            "reward": 5000,
+            "AdsReward": 6000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 27,
+            "totalProgress": 40,
+            "reward": 5000,
+            "AdsReward": 6000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 28,
+            "totalProgress": 40,
+            "reward": 5000,
+            "AdsReward": 6000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 29,
+            "totalProgress": 40,
+            "reward": 5000,
+            "AdsReward": 6000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 30,
+            "totalProgress": 40,
+            "reward": 5000,
+            "AdsReward": 6000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 31,
+            "totalProgress": 40,
+            "reward": 2000,
+            "AdsReward": 20000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 32,
+            "totalProgress": 40,
+            "reward": 2000,
+            "AdsReward": 20000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 33,
+            "totalProgress": 40,
+            "reward": 2000,
+            "AdsReward": 20000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 34,
+            "totalProgress": 40,
+            "reward": 2000,
+            "AdsReward": 20000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 35,
+            "totalProgress": 40,
+            "reward": 2000,
+            "AdsReward": 20000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 36,
+            "totalProgress": 40,
+            "reward": 2000,
+            "AdsReward": 20000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 37,
+            "totalProgress": 40,
+            "reward": 2000,
+            "AdsReward": 20000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 38,
+            "totalProgress": 40,
+            "reward": 2000,
+            "AdsReward": 20000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 39,
+            "totalProgress": 40,
+            "reward": 2000,
+            "AdsReward": 20000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 40,
+            "totalProgress": 40,
+            "reward": 2000,
+            "AdsReward": 20000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 41,
+            "totalProgress": 40,
+            "reward": 2000,
+            "AdsReward": 20000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 42,
+            "totalProgress": 40,
+            "reward": 2000,
+            "AdsReward": 20000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 43,
+            "totalProgress": 40,
+            "reward": 2000,
+            "AdsReward": 20000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 44,
+            "totalProgress": 40,
+            "reward": 2000,
+            "AdsReward": 20000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 45,
+            "totalProgress": 40,
+            "reward": 2000,
+            "AdsReward": 20000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 46,
+            "totalProgress": 40,
+            "reward": 2000,
+            "AdsReward": 20000,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 47,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 48,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 49,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 50,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 51,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 52,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 53,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 54,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 55,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 56,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 57,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 58,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 59,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 60,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 61,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 62,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 63,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 64,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 65,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 66,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 67,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 68,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 69,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 70,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 71,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 72,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 73,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 74,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 75,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 76,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 77,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 78,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 79,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 80,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [],
+            "UnlockString": []
+        },
+        {
+            "id": 81,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [
+                {
+                    "instanceID": 45454
+                },
+                {
+                    "instanceID": 45472
+                }
+            ],
+            "UnlockString": [
+                "Unlock_Area_3",
+                "Unlock_Bed_Room"
+            ]
+        },
+        {
+            "id": 82,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [
+                {
+                    "instanceID": 45478
+                },
+                {
+                    "instanceID": 45490
+                }
+            ],
+            "UnlockString": [
+                "Unlock_Boxing_Room",
+                "Unlock_Reception"
+            ]
+        },
+        {
+            "id": 83,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [
+                {
+                    "instanceID": 45472
+                },
+                {
+                    "instanceID": 45480
+                }
+            ],
+            "UnlockString": [
+                "Unlock_Bed_Room",
+                "Unlock_Boxing_Worker"
+            ]
+        },
+        {
+            "id": 84,
+            "totalProgress": 5,
+            "reward": 50,
+            "AdsReward": 30,
+            "unlocks": [
+                {
+                    "instanceID": 45472
+                }
+            ],
+            "UnlockString": [
+                "Unlock_Bed_Room"
+            ]
+        }
+    ]
+}

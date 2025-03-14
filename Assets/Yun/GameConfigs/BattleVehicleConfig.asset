@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e20ba191ce23f141b524216d1a48048, type: 3}
+  m_Name: BattleVehicleConfig
+  m_EditorClassIdentifier: 
+  TankDamageLevel1: 1
+  TankSpeedShootingLv1: 6
+  TankDamageLevel2: 3
+  TankSpeedShootingLv2: 6
+  TankDamageLevel3: 5
+  TankSpeedShootingLv3: 6
+  MissileDamageLevel1: 1
+  MissileSpeedShootingLv1: 8
+  MisslileBulletNumberLv1: 4
+  MissileDamageLevel2: 3
+  MissileSpeedShootingLv2: 7
+  MisslileBulletNumberLv2: 5
+  MissileDamageLevel3: 5
+  MissileSpeedShootingLv3: 5
+  MisslileBulletNumberLv3: 3
+  ArmoredDamageLevel1: 1
+  ArmoredSpeedShootingLv1: 0.6
+  ArmoredDamageLevel2: 1
+  ArmoredSpeedShootingLv2: 0.5
+  ArmoredDamageLevel3: 1
+  ArmoredSpeedShootingLv3: 0.4

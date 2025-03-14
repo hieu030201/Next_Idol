@@ -1,0 +1,95 @@
+{
+    "_list": [
+        {
+            "id": 0,
+            "price": 0.0,
+            "name": 0,
+            "strName": "Player",
+            "icon": {
+                "instanceID": 43804
+            },
+            "unlock": true,
+            "status": "",
+            "sellType": 0,
+            "strSelltype": "Reward"
+        },
+        {
+            "id": 1,
+            "price": 50.0,
+            "name": 1,
+            "strName": "Chef",
+            "icon": {
+                "instanceID": 43804
+            },
+            "unlock": false,
+            "status": "Reward 1",
+            "sellType": 0,
+            "strSelltype": "Reward"
+        },
+        {
+            "id": 2,
+            "price": 10.0,
+            "name": 2,
+            "strName": "Chemical",
+            "icon": {
+                "instanceID": 43804
+            },
+            "unlock": false,
+            "status": "+ 10% Cash income",
+            "sellType": 3,
+            "strSelltype": "IAP"
+        },
+        {
+            "id": 3,
+            "price": 60.0,
+            "name": 3,
+            "strName": "Commando",
+            "icon": {
+                "instanceID": 43804
+            },
+            "unlock": false,
+            "status": "Premium",
+            "sellType": 1,
+            "strSelltype": "Get"
+        },
+        {
+            "id": 4,
+            "price": 0.0,
+            "name": 5,
+            "strName": "Staff_Boxing",
+            "icon": {
+                "instanceID": 43804
+            },
+            "unlock": false,
+            "status": "Reward 2",
+            "sellType": 0,
+            "strSelltype": "Reward"
+        },
+        {
+            "id": 5,
+            "price": 0.0,
+            "name": 6,
+            "strName": "Mafia_Suite_Vet",
+            "icon": {
+                "instanceID": 43804
+            },
+            "unlock": false,
+            "status": "Reward 3",
+            "sellType": 0,
+            "strSelltype": "Reward"
+        },
+        {
+            "id": 6,
+            "price": 15.0,
+            "name": 7,
+            "strName": "President",
+            "icon": {
+                "instanceID": 43804
+            },
+            "unlock": false,
+            "status": "+ 20% Cash income",
+            "sellType": 2,
+            "strSelltype": "Gem"
+        }
+    ]
+}

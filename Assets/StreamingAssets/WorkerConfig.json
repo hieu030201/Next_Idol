@@ -1,0 +1,139 @@
+{
+    "speed": 2.0,
+    "UpgradeWorker1CapacitysList": [
+        {
+            "CapacityNumber": 2,
+            "LevelActive": 3,
+            "Price": 30
+        },
+        {
+            "CapacityNumber": 3,
+            "LevelActive": 5,
+            "Price": 90
+        },
+        {
+            "CapacityNumber": 4,
+            "LevelActive": 8,
+            "Price": 120
+        }
+    ],
+    "UpgradeWorker2CapacitysList": [
+        {
+            "CapacityNumber": 2,
+            "LevelActive": 6,
+            "Price": 30
+        },
+        {
+            "CapacityNumber": 3,
+            "LevelActive": 12,
+            "Price": 90
+        },
+        {
+            "CapacityNumber": 4,
+            "LevelActive": 14,
+            "Price": 120
+        }
+    ],
+    "UpgradeWorker3CapacitysList": [
+        {
+            "CapacityNumber": 2,
+            "LevelActive": 10,
+            "Price": 50
+        },
+        {
+            "CapacityNumber": 2,
+            "LevelActive": 15,
+            "Price": 150
+        },
+        {
+            "CapacityNumber": 3,
+            "LevelActive": 16,
+            "Price": 200
+        }
+    ],
+    "UpgradeWorker4CapacitysList": [
+        {
+            "CapacityNumber": 2,
+            "LevelActive": 12,
+            "Price": 80
+        },
+        {
+            "CapacityNumber": 3,
+            "LevelActive": 16,
+            "Price": 180
+        },
+        {
+            "CapacityNumber": 4,
+            "LevelActive": 17,
+            "Price": 230
+        }
+    ],
+    "buyBedRoomStaffsList": [
+        {
+            "id": 0,
+            "price": 250,
+            "levelActive": 4,
+            "isBought": false
+        },
+        {
+            "id": 1,
+            "price": 1150,
+            "levelActive": 6,
+            "isBought": false
+        },
+        {
+            "id": 2,
+            "price": 2250,
+            "levelActive": 10,
+            "isBought": false
+        }
+    ],
+    "buyBoxingStaffsList": [
+        {
+            "id": 0,
+            "price": 750,
+            "levelActive": 5,
+            "isBought": false
+        },
+        {
+            "id": 1,
+            "price": 1350,
+            "levelActive": 7,
+            "isBought": false
+        },
+        {
+            "id": 2,
+            "price": 2350,
+            "levelActive": 10,
+            "isBought": false
+        }
+    ],
+    "buyDiningStaffsList": [
+        {
+            "id": 0,
+            "price": 1550,
+            "levelActive": 8,
+            "isBought": false
+        },
+        {
+            "id": 1,
+            "price": 3250,
+            "levelActive": 12,
+            "isBought": false
+        }
+    ],
+    "buyTrainingStaffsList": [
+        {
+            "id": 0,
+            "price": 1250,
+            "levelActive": 9,
+            "isBought": false
+        },
+        {
+            "id": 1,
+            "price": 2250,
+            "levelActive": 11,
+            "isBought": false
+        }
+    ]
+}

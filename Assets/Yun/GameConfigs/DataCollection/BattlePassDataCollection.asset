@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d67fbd818864cca459576b9542ce2393, type: 3}
+  m_Name: BattlePassDataCollection
+  m_EditorClassIdentifier: 
+  _list:
+  - id: 0
+    isUnlock: 0
+    battlePassFree:
+      rewardType: 0
+      amount: 0
+      unlock: 0
+      claimed: 0
+    battlePassHero:
+      rewardType: 0
+      amount: 0
+      unlock: 0
+      claimed: 0
+    battlePassLengend:
+      rewardType: 4
+      amount: 1
+      unlock: 0
+      claimed: 0
+  - id: 1
+    isUnlock: 0
+    battlePassFree:
+      rewardType: 0
+      amount: 0
+      unlock: 0
+      claimed: 0
+    battlePassHero:
+      rewardType: 5
+      amount: 20
+      unlock: 0
+      claimed: 0
+    battlePassLengend:
+      rewardType: 5
+      amount: 20
+      unlock: 0
+      claimed: 0
+  - id: 2
+    isUnlock: 0
+    battlePassFree:
+      rewardType: 3
+      amount: 5
+      unlock: 0
+      claimed: 0
+    battlePassHero:
+      rewardType: 3
+      amount: 5
+      unlock: 0
+      claimed: 0
+    battlePassLengend:
+      rewardType: 3
+      amount: 10
+      unlock: 0
+      claimed: 0
+  - id: 3
+    isUnlock: 0
+    battlePassFree:
+      rewardType: 1
+      amount: 250
+      unlock: 0
+      claimed: 0
+    battlePassHero:
+      rewardType: 1
+      amount: 500
+      unlock: 0
+      claimed: 0
+    battlePassLengend:
+      rewardType: 1
+      amount: 1000
+      unlock: 0
+      claimed: 0
+  - id: 4
+    isUnlock: 0
+    battlePassFree:
+      rewardType: 3
+      amount: 5
+      unlock: 0
+      claimed: 0
+    battlePassHero:
+      rewardType: 3
+      amount: 5
+      unlock: 0
+      claimed: 0
+    battlePassLengend:
+      rewardType: 3
+      amount: 10
+      unlock: 0
+      claimed: 0
+  - id: 5
+    isUnlock: 0
+    battlePassFree:
+      rewardType: 1
+      amount: 1000
+      unlock: 0
+      claimed: 0
+    battlePassHero:
+      rewardType: 1
+      amount: 2000
+      unlock: 0
+      claimed: 0
+    battlePassLengend:
+      rewardType: 1
+      amount: 5000
+      unlock: 0
+      claimed: 0
+  - id: 6
+    isUnlock: 0
+    battlePassFree:
+      rewardType: 3
+      amount: 10
+      unlock: 0
+      claimed: 0
+    battlePassHero:
+      rewardType: 3
+      amount: 10
+      unlock: 0
+      claimed: 0
+    battlePassLengend:
+      rewardType: 3
+      amount: 20
+      unlock: 0
+      claimed: 0

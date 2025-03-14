@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd75514860f8fb4a92576300dd58872, type: 3}
+  m_Name: PlayerConfig
+  m_EditorClassIdentifier: 
+  Speed: 3.2
+  StartCollectMoneyRadius: 1.5
+  BoosterCollectMoneyRadius: 4
+  StartingMoney: 60
+  StartingCapacity: 1
+  ShowVipSoldierDelay: 180
+  ShowSpeedBoosterDelay: 180
+  UpgradeWorkerTime: 180
+  VipSoldierTime: 180
+  SpeedBoosterTime: 180
+  WorkerSpeedBoosterTime: 180
+  DesertTime: 30
+  GemCostForSkipAds: 3
+  UpgradeSpeedsList:
+  - SpeedNumber: 3.5
+    LevelActive: 3
+    Price: 150
+  - SpeedNumber: 4
+    LevelActive: 7
+    Price: 850
+  - SpeedNumber: 4.8
+    LevelActive: 11
+    Price: 1250
+  UpgradCapacitysList:
+  - CapacityNumber: 2
+    LevelActive: 2
+    Price: 100
+  - CapacityNumber: 3
+    LevelActive: 4
+    Price: 350
+  - CapacityNumber: 4
+    LevelActive: 6
+    Price: 750
+  - CapacityNumber: 5
+    LevelActive: 9
+    Price: 1250

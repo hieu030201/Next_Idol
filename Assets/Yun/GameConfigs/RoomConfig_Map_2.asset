@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5797e928cb3677f4c9a5c76d3130e752, type: 3}
+  m_Name: RoomConfig_Map_2
+  m_EditorClassIdentifier: 
+  roomsList_Area_1:
+  - name: Check_In_Room
+    levelsPlayerToActive: 01000000
+    prices: 0a000000
+    stars: 00000000
+    nextWorker: 
+    nextRoom: Bed_Room_1
+    nextRoom2: 
+  - name: Waiting_Room
+    levelsPlayerToActive: 01000000
+    prices: 01000000
+    stars: 00000000
+    nextWorker: 
+    nextRoom: 
+    nextRoom2: 
+  - name: Upgrade_Room
+    levelsPlayerToActive: 03000000
+    prices: 00000000
+    stars: 00000000
+    nextWorker: 
+    nextRoom: 
+    nextRoom2: 
+  - name: Bed_Room_1
+    levelsPlayerToActive: 0100000006000000
+    prices: 1e0000005e010000
+    stars: 0100000002000000
+    nextWorker: 
+    nextRoom: Boxing_Room_1
+    nextRoom2: 
+  - name: Boxing_Room_1
+    levelsPlayerToActive: 02000000
+    prices: 32000000
+    stars: 02000000
+    nextWorker: 
+    nextRoom: 
+    nextRoom2: 
+  - name: Battle_Room_1
+    levelsPlayerToActive: 02000000
+    prices: 1e000000
+    stars: 05000000
+    nextWorker: 
+    nextRoom: Bed_Room_2
+    nextRoom2: 
+  roomsList_Area_2:
+  - name: Bed_Room_2
+    levelsPlayerToActive: 0500000008000000
+    prices: e1000000c2010000
+    stars: 0100000002000000
+    nextWorker: Hire_Boxing_Worker_Point_Area_1
+    nextRoom: Training_Room_1
+    nextRoom2: 
+  - name: Training_Room_1
+    levelsPlayerToActive: 06000000
+    prices: 09010000
+    stars: 02000000
+    nextWorker: 
+    nextRoom: Bed_Room_3
+    nextRoom2: Bed_Room_1
+  - name: Bed_Room_3
+    levelsPlayerToActive: 050000000a000000
+    prices: fa000000ee020000
+    stars: 0100000002000000
+    nextWorker: Hire_Bedroom_Employee_Point_Area_2
+    nextRoom: Bed_Room_4
+    nextRoom2: 
+  - name: Bed_Room_4
+    levelsPlayerToActive: 090000000f000000
+    prices: 2c010000e8030000
+    stars: 0100000002000000
+    nextWorker: 
+    nextRoom: Bed_Room_5
+    nextRoom2: Bed_Room_2
+  - name: Bed_Room_5
+    levelsPlayerToActive: 0a0000000f000000
+    prices: 8a020000dc050000
+    stars: 0100000002000000
+    nextWorker: Hire_TrainingRoom_Employee_Point_Area_2
+    nextRoom: 
+    nextRoom2: 
+  - name: Battle_Room_2
+    levelsPlayerToActive: 090000000f000000
+    prices: c2010000e8030000
+    stars: 05000000
+    nextWorker: 
+    nextRoom: Bed_Room_6
+    nextRoom2: Bed_Room_3
+  roomsList_Area_3:
+  - name: Bed_Room_6
+    levelsPlayerToActive: 0d00000010000000
+    prices: 52030000d0070000
+    stars: 0100000002000000
+    nextWorker: 
+    nextRoom: Dining_Room_1
+    nextRoom2: Bed_Room_4
+  - name: Dining_Room_1
+    levelsPlayerToActive: 0b000000
+    prices: dc050000
+    stars: 02000000
+    nextWorker: Hire_Bedroom_Employee_Point_Area_3
+    nextRoom: Boxing_Room_2
+    nextRoom2: 
+  - name: Boxing_Room_2
+    levelsPlayerToActive: 0b000000
+    prices: dc050000
+    stars: 02000000
+    nextWorker: Hire_DiningRoom_Employee_Point_Area_3
+    nextRoom: Bed_Room_7
+    nextRoom2: 
+  - name: Bed_Room_7
+    levelsPlayerToActive: 0d00000010000000
+    prices: 52030000d0070000
+    stars: 0100000002000000
+    nextWorker: Hire_Boxing_Worker_Point_Area_3
+    nextRoom: Bed_Room_8
+    nextRoom2: 
+  - name: Bed_Room_8
+    levelsPlayerToActive: 0d00000010000000
+    prices: 52030000d0070000
+    stars: 0100000002000000
+    nextWorker: 
+    nextRoom: 
+    nextRoom2: 
+  - name: Battle_Room_3
+    levelsPlayerToActive: 0c000000
+    prices: e8030000
+    stars: 05000000
+    nextWorker: 
+    nextRoom: Bed_Room_9
+    nextRoom2: 
+  roomsList_Area_4:
+  - name: Bed_Room_9
+    levelsPlayerToActive: 0f00000019000000
+    prices: dc050000b80b0000
+    stars: 0100000002000000
+    nextWorker: 
+    nextRoom: Training_Room_2
+    nextRoom2: 
+  - name: Training_Room_2
+    levelsPlayerToActive: 12000000
+    prices: c4090000
+    stars: 02000000
+    nextWorker: 
+    nextRoom: Boxing_Room_3
+    nextRoom2: 
+  - name: Boxing_Room_3
+    levelsPlayerToActive: 12000000
+    prices: c4090000
+    stars: 02000000
+    nextWorker: 
+    nextRoom: Bed_Room_10
+    nextRoom2: Bed_Room_8
+  - name: Bed_Room_10
+    levelsPlayerToActive: 120000001e000000
+    prices: c409000094110000
+    stars: 0100000002000000
+    nextWorker: 
+    nextRoom: 
+    nextRoom2: Bed_Room_9
+  - name: Battle_Room_4
+    levelsPlayerToActive: 120000001e000000
+    prices: 080700000d110000
+    stars: 05000000
+    nextWorker: 
+    nextRoom: Bed_Room_11
+    nextRoom2: 
+  roomsList_Area_5:
+  - name: Bed_Room_11
+    levelsPlayerToActive: 1400000016000000
+    prices: be0a000094110000
+    stars: 0100000002000000
+    nextWorker: 
+    nextRoom: Dining_Room_2
+    nextRoom2: 
+  - name: Dining_Room_2
+    levelsPlayerToActive: 14000000
+    prices: b80b0000
+    stars: 02000000
+    nextWorker: 
+    nextRoom: Bed_Room_12
+    nextRoom2: Bed_Room_10
+  - name: Bed_Room_12
+    levelsPlayerToActive: 1400000017000000
+    prices: b80b000088130000
+    stars: 0100000002000000
+    nextWorker: 
+    nextRoom: 
+    nextRoom2: Bed_Room_11
+  - name: Battle_Room_5
+    levelsPlayerToActive: 15000000
+    prices: ac0d0000
+    stars: 05000000
+    nextWorker: 
+    nextRoom: 
+    nextRoom2: 
+  roomsList_Area_6: []

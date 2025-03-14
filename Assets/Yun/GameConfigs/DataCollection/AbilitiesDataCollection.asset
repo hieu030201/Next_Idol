@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb555257e33bdce4bb9f645052df1a84, type: 3}
+  m_Name: AbilitiesDataCollection
+  m_EditorClassIdentifier: 
+  _list:
+  - id: 0
+    abilityItemType: 0
+    incomeType: 0
+    pointUpGrade: 10
+    percentIncome: 0
+    unlock: 1
+  - id: 1
+    abilityItemType: 0
+    incomeType: 0
+    pointUpGrade: 12
+    percentIncome: 0
+    unlock: 1
+  - id: 2
+    abilityItemType: 0
+    incomeType: 0
+    pointUpGrade: 14
+    percentIncome: 0
+    unlock: 1
+  - id: 3
+    abilityItemType: 1
+    incomeType: 4
+    pointUpGrade: 16
+    percentIncome: 0
+    unlock: 1
+  - id: 4
+    abilityItemType: 0
+    incomeType: 2
+    pointUpGrade: 18
+    percentIncome: 0
+    unlock: 1
+  - id: 5
+    abilityItemType: 0
+    incomeType: 2
+    pointUpGrade: 20
+    percentIncome: 0
+    unlock: 0
+  - id: 6
+    abilityItemType: 0
+    incomeType: 0
+    pointUpGrade: 22
+    percentIncome: 0
+    unlock: 0
+  - id: 7
+    abilityItemType: 0
+    incomeType: 0
+    pointUpGrade: 24
+    percentIncome: 0
+    unlock: 0
+  - id: 8
+    abilityItemType: 0
+    incomeType: 0
+    pointUpGrade: 26
+    percentIncome: 0
+    unlock: 0

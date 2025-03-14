@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07ca881931e363347adf844c6d3cc908, type: 3}
+  m_Name: WorkerConfig
+  m_EditorClassIdentifier: 
+  speed: 2
+  UpgradeWorker1CapacitysList:
+  - CapacityNumber: 2
+    LevelActive: 3
+    Price: 30
+  - CapacityNumber: 3
+    LevelActive: 5
+    Price: 90
+  - CapacityNumber: 4
+    LevelActive: 8
+    Price: 120
+  UpgradeWorker2CapacitysList:
+  - CapacityNumber: 2
+    LevelActive: 6
+    Price: 30
+  - CapacityNumber: 3
+    LevelActive: 12
+    Price: 90
+  - CapacityNumber: 4
+    LevelActive: 14
+    Price: 120
+  UpgradeWorker3CapacitysList:
+  - CapacityNumber: 2
+    LevelActive: 10
+    Price: 50
+  - CapacityNumber: 2
+    LevelActive: 15
+    Price: 150
+  - CapacityNumber: 3
+    LevelActive: 16
+    Price: 200
+  UpgradeWorker4CapacitysList:
+  - CapacityNumber: 2
+    LevelActive: 12
+    Price: 80
+  - CapacityNumber: 3
+    LevelActive: 16
+    Price: 180
+  - CapacityNumber: 4
+    LevelActive: 17
+    Price: 230
+  buyBedRoomStaffsList:
+  - id: 0
+    price: 450
+    levelActive: 4
+    isBought: 0
+  - id: 1
+    price: 1150
+    levelActive: 6
+    isBought: 0
+  - id: 2
+    price: 2250
+    levelActive: 10
+    isBought: 0
+  buyBoxingStaffsList:
+  - id: 0
+    price: 750
+    levelActive: 5
+    isBought: 0
+  - id: 1
+    price: 1350
+    levelActive: 8
+    isBought: 0
+  - id: 2
+    price: 2350
+    levelActive: 10
+    isBought: 0
+  buyDiningStaffsList:
+  - id: 0
+    price: 1750
+    levelActive: 7
+    isBought: 0
+  - id: 1
+    price: 3250
+    levelActive: 9
+    isBought: 0
+  buyTrainingStaffsList:
+  - id: 0
+    price: 2250
+    levelActive: 7
+    isBought: 0
+  - id: 1
+    price: 3500
+    levelActive: 9
+    isBought: 0
+  - id: 2
+    price: 4200
+    levelActive: 10
+    isBought: 0

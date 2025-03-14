@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dbe2bf39f032a94a8612f5f0d79b81e, type: 3}
+  m_Name: HireEmployeeConfig
+  m_EditorClassIdentifier: 
+  hireEmployeeConfigs:
+  - name: Hire_Check_In_Employee_Point
+    price: 60
+  - name: Hire_Bedroom_Employee_Point_Area_1
+    price: 70
+  - name: Hire_Boxing_Worker_Point_Area_1
+    price: 150
+  - name: Hire_Bedroom_Employee_Point_Area_2
+    price: 375
+  - name: Hire_TrainingRoom_Employee_Point_Area_2
+    price: 225
+  - name: Hire_DiningRoom_Employee_Point_Area_3
+    price: 295
+  - name: Hire_Bedroom_Employee_Point_Area_3
+    price: 565
+  - name: Hire_Hospital_Employee_Point_Area_4
+    price: 925
+  - name: Hire_Bedroom_Employee_Point_Area_4
+    price: 1725
+  - name: Hire_Boxing_Employee_Point_Area_4
+    price: 2545
+  - name: Hire_TrainingRoom_Employee_Point_Area_5
+    price: 3265
+  - name: Hire_Bedroom_Employee_Point_Area_5
+    price: 4265
+  - name: Hire_DiningRoom_Employee_Point_Area_5
+    price: 5265

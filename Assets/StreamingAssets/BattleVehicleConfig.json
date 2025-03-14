@@ -1,0 +1,23 @@
+{
+    "TankDamageLevel1": 1,
+    "TankSpeedShootingLv1": 5.0,
+    "TankDamageLevel2": 3,
+    "TankSpeedShootingLv2": 5.0,
+    "TankDamageLevel3": 5,
+    "TankSpeedShootingLv3": 5.0,
+    "MissileDamageLevel1": 1,
+    "MissileSpeedShootingLv1": 6.0,
+    "MisslileBulletNumberLv1": 4,
+    "MissileDamageLevel2": 3,
+    "MissileSpeedShootingLv2": 5.0,
+    "MisslileBulletNumberLv2": 5,
+    "MissileDamageLevel3": 5,
+    "MissileSpeedShootingLv3": 4.0,
+    "MisslileBulletNumberLv3": 3,
+    "ArmoredDamageLevel1": 1,
+    "ArmoredSpeedShootingLv1": 0.30000001192092898,
+    "ArmoredDamageLevel2": 1,
+    "ArmoredSpeedShootingLv2": 0.25,
+    "ArmoredDamageLevel3": 1,
+    "ArmoredSpeedShootingLv3": 0.20000000298023225
+}
